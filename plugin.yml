@@ -1,0 +1,9 @@
+name: KillStreak
+main: me.shock.killstreak.Main
+author: drtshock
+version: 1.0
+commands:
+  killstreak:
+    description: Get your current killstreak.
+  ks:
+    description: Get your current killstreak.
